@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\School\\NBCC\\Year TWO\\SectionTWO\\Android Programming\\Rick-Morty-Quiz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "outputFile": "C:\\School\\NBCC\\Year TWO\\SectionTWO\\Android Programming\\assignment-1-a-quiz-app-JamesOssai\\Rick-Morty-Quiz\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ossai\\.gradle\\caches\\transforms-2\\files-2.1\\c7e28cf33a8972d116e817b742b7a10c\\core-1.0.2\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\ossai\\.gradle\\caches\\transforms-2\\files-2.1\\a83bef444c9240faa8e56c19819ce9ad\\core-1.1.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
